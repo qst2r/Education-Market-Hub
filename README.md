@@ -1,0 +1,1 @@
+Continue working on the index.html. Make like little divs with images and an updates page, some content that we offer, and some more Ideas to be generated. Link them with a different div class also then add CSS to it ok!
