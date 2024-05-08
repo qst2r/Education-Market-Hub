@@ -85,6 +85,15 @@ width: 150px;
 height: 120px;
 }
 
+.button:hover {
+background-color: blue;
+font-color: white;
+width: 170px;
+border-color: 4px;
+text-decoration: none;
+}
+
+
 
 
 
