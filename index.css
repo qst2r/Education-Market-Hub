@@ -41,5 +41,34 @@ text-decoration: underline;
 font-weight: thin;
 }
 
+.welcome {
+width: 100%;
+overflow-wrap: break-word;
+font-size: 10px;
+justify-content: left;
+text-align: center;
+}
+
+h1 {
+font-size: 2em;
+font-color: #1a1a1a;
+text-decoration: underline;
+padding-top: 10px;
+padding-bottom: 10px;
+font-weight: bold;
+font-family: 'roboto',sans-serif;
+}
+
+p {
+font-size: 15px;
+font-color: black;
+text-align: center;
+padding-top: 10px;
+padding-bottom: 10px;
+font-family: 'roboto',sans-serif;
+}
+
+
+
 
 
