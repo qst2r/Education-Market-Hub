@@ -44,13 +44,14 @@ font-weight: thin;
 .welcome {
 width: 100%;
 overflow-wrap: break-word;
-font-size: 10px;
+font-size: 20px;
 justify-content: left;
 text-align: center;
+margin: left;
 }
 
 h1 {
-font-size: 2em;
+font-size: 3em;
 font-color: #1a1a1a;
 text-decoration: underline;
 padding-top: 10px;
@@ -60,13 +61,34 @@ font-family: 'roboto',sans-serif;
 }
 
 p {
-font-size: 15px;
+font-size: 20px;
 font-color: black;
 text-align: center;
 padding-top: 10px;
 padding-bottom: 10px;
 font-family: 'roboto',sans-serif;
 }
+
+.button {
+background-color: white;
+font-color: blue;
+font-weight: bold;
+text-decoration: underline;
+padding-top: 5px;
+padding-bottom: 5px;
+font-family: 'roboto',sans-serif;
+text-align: center;
+justify-content: center;
+border: 3px;
+border-color: blue;
+width: 150px;
+height: 120px;
+}
+
+
+
+
+
 
 
 
