@@ -33,6 +33,7 @@ margin: top;
 box-shadow: rgb(178, 190, 181);
 text-decoration: underline;
 font-family: 'roboto',sans-serif;
+height: 40px;
 }
 
 .nav:hover {
@@ -77,9 +78,9 @@ font-family: 'roboto',sans-serif;
 }
 
 .button {
-background-color: blue;
-font-color: white;
-font-size: 10px;
+background-color: white;
+font-color: black;
+font-size: 15px;
 font-weight: bold;
 text-decoration: underline;
 padding-top: 5px;
