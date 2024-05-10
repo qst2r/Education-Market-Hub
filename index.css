@@ -41,6 +41,13 @@ text-decoration: underline;
 font-weight: thin;
 }
 
+.nav-button {
+ background-color: rgb(178, 190, 181);
+ font-color: black;
+ text-decoration: none;
+ font-family: 'roboto',sans-serif;
+ }
+
 .welcome {
 width: 100%;
 overflow-wrap: break-word;
@@ -70,8 +77,9 @@ font-family: 'roboto',sans-serif;
 }
 
 .button {
-background-color:  white;
-font-color: blue;
+background-color: blue;
+font-color: white;
+font-size: 2em;
 font-weight: bold;
 text-decoration: underline;
 padding-top: 5px;
@@ -81,14 +89,14 @@ text-align: center;
 justify-content: center;
 border: 3px;
 border-color: blue;
-width: 150px;
-height: 120px;
+width: 100px;
+height: 100px;
 }
 
 .button:hover {
-background-color: blue;
+background-color: black;
 font-color: white;
-width: 170px;
+width: 120px;
 border-color: 4px;
 text-decoration: none;
 }
