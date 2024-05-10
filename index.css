@@ -79,7 +79,7 @@ font-family: 'roboto',sans-serif;
 .button {
 background-color: blue;
 font-color: white;
-font-size: 2em;
+font-size: 10px;
 font-weight: bold;
 text-decoration: underline;
 padding-top: 5px;
@@ -91,6 +91,7 @@ border: 3px;
 border-color: blue;
 width: 100px;
 height: 100px;
+overflow-wrap: fit;
 }
 
 .button:hover {
