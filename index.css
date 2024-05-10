@@ -33,7 +33,6 @@ margin: top;
 box-shadow: rgb(178, 190, 181);
 text-decoration: underline;
 font-family: 'roboto',sans-serif;
-height: 40px;
 }
 
 .nav:hover {
@@ -88,16 +87,16 @@ padding-bottom: 5px;
 font-family: 'roboto',sans-serif;
 text-align: center;
 justify-content: center;
-border: 3px;
-border-color: blue;
 width: 100px;
 height: 100px;
 overflow-wrap: fit;
 }
 
 .button:hover {
-background-color: black;
-font-color: white;
+background-color: white;
+font-color: black;
+border: 4px;
+border-color: blue;
 width: 120px;
 border-color: 4px;
 text-decoration: none;
