@@ -1,7 +1,7 @@
 // --- Config --- //
 var purecookieTitle = "Cookies."; // Title
 var purecookieDesc = "By using this website, you automatically accept that we use your cookies."; // Description
-var purecookieLink = 'Aster uses cookies to store your settings and game progress. Aster also uses Google Analytics.'; // Cookiepolicy link
+var purecookieLink = 'Brain Core uses cookies to save the progress or any learning you need on here, it also uses google analytics.'; // Cookiepolicy link
 var purecookieButton = "I Understand"; // Button text
 // ---        --- //
 
