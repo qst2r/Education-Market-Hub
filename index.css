@@ -114,6 +114,10 @@ font-color: blue;
 text-decorations: underline;
 font-weight: bold;
 cursor: pointer;
+padding-right: 15px;
+padding-left: 15px;
+padding-top: 10px;
+padding-bottom: 10px;
 } 
 
 
