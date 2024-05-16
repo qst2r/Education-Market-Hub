@@ -1,1 +1,1 @@
-Continue working on the index.html. Make like little divs with images and an updates page, some content that we offer, and some more Ideas to be generated. Link them with a different div class also then add CSS to it ok! FIX THE CSS FOR THE BUTTON! IT LOOKS WEIRD ON THE WEB
+Continue working on the popup.html popup.css and popup.js from the video saved at the bookmarks bar. you are on 7min 25 secs resume and complete.
