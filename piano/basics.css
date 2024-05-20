@@ -24,7 +24,7 @@ padding-bottom: 10px;
 }
 
 h1 {
-font-size: 3em;
+font-size: 2em;
 font-color: #1a1a1a;
 text-decoration: underline;
 padding-top: 10px;
@@ -44,7 +44,7 @@ font-family: 'roboto',sans-serif;
 }
 
 h2 {
-font-size: 3em;
+font-size: 2em;
 font-color: #1a1a1a;
 text-decoration: underline;
 padding-top: 10px;
@@ -55,7 +55,7 @@ background-color: white;
 }
 
 h3 {
-font-size: 3em;
+font-size: 2em;
 font-color: #1a1a1a;
 text-decoration: underline;
 padding-top: 10px;
@@ -66,7 +66,7 @@ background-color: white;
 }
 
 h4 {
-font-size: 3em;
+font-size: 2em;
 font-color: #1a1a1a;
 text-decoration: underline;
 padding-top: 10px;
@@ -85,16 +85,15 @@ background-color: white;
 font-color: black;
 font-size: 20px;
 font-family: 'roboto',sans-serif;
-border-radius: 4px;
-border: 3px;
+border: 5px;
 border-color: black;
 }
 
 .button:hover {
-background-color: black;
-font-color: white;
-border: 4px;
-border-color: white;
+background-color: white;
+font-color: black;
+border: 7px;
+border-color: blue;
 }
 
 .basic-video {
@@ -107,15 +106,15 @@ font-color: black;
 font-size: 20px;
 font-family: 'roboto',sans-serif;
 border-radius: 4px;
-border: 3px;
-border-color: white;
+border: 5px;
+border-color: black;
 }
 
 .basic-video:hover {
-border: 4px;
-border-color: white;
-background-color: black;
-font-color: white;
+border: 7px;
+border-color: blue;
+background-color: white;
+font-color: black;
 }
 
 .teaching {
