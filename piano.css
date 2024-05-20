@@ -86,13 +86,13 @@ input[type="text"] {
 }
 
 .tutorials img {
-  width: 150px;
+  width: 100%;
   border-radius: 15px;
   aspect-ratio: 1 / 1;
 }
 
 .tutorials {
-  width: 20%;
+  width: 15%;
   border-radius: 15px;
   display: inline-block;
   background-color: var(--uibg);
