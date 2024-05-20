@@ -51,7 +51,7 @@ cursor:pointer;
  }
 
 h1 {
-font-size: 3em;
+font-size: 2em;
 font-color: #1a1a1a;
 text-decoration: underline;
 padding-top: 10px;
@@ -74,4 +74,29 @@ input[type="text"] {
   border-radius: 4px;
   transition: opacity 0.25s ease-in-out;
   opacity: 100%;
+}
+
+.tutorials {
+  color: #1a1a1a;
+  font-family: "roboto", sans-serif;
+  border: 2px solid #262626;
+  border-radius: 8px;
+  text-decoration-line: none;
+  grid-template-columns: 200px 1fr max-content;
+}
+
+.tutorials img {
+  width: 150px;
+  border-radius: 15px;
+  aspect-ratio: 1 / 1;
+}
+
+.tutorials {
+  width: 20%;
+  border-radius: 15px;
+  display: inline-block;
+  background-color: var(--uibg);
+  margin: 15px;
+  cursor: pointer;
+  box-shadow: 0px 0px 5px 5px var(--uibg);
 }
