@@ -1,1 +1,2 @@
-Continue working on the popup.html popup.css and popup.js from the video saved at the bookmarks bar. you are on 7min 25 secs resume and complete.
+Credit goes to Selenite for the Cookies and some JS.(I am not that fluent at JS. Credit also goes to Awesome-XV for the nav/tutorial bars in the html folders (piano,drawing,etc.
+At 7:25 seconds is my popup instructions.
