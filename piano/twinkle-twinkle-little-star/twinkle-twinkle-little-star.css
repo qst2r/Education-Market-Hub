@@ -1,0 +1,87 @@
+body {
+font-family: 'roboto',sans-serif;
+text-decoration: none;
+font-color: black;
+justify-content: center;
+text-align: center;
+padding-top: 20px;
+padding-bottom: 20px;
+margin-bottom: 30px;
+background-position: center;
+animation: fadeIn ease-out 0.5s;
+}
+
+head {
+font-family: 'roboto',sans-serif;
+color: black;
+text-decoration: none;
+font-size: 15px;
+text-align: center;
+justify-content: center;
+position: relative;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+
+h1 {
+font-size: 2em;
+font-color: #1a1a1a;
+text-decoration: underline;
+padding-top: 10px;
+padding-bottom: 10px;
+font-weight: bold;
+font-family: 'roboto',sans-serif;
+background-color: white;
+}
+
+
+h2 {
+font-color: #1a1a1a;
+text-decoration: underline;
+padding-top: 10px;
+padding-bottom: 10px;
+font-weight: bold;
+font-family: 'roboto',sans-serif;
+background-color: white;
+}
+
+
+h4 {
+font-color: #1a1a1a;
+text-decoration: underline;
+padding-top: 10px;
+padding-bottom: 10px;
+font-weight: bold;
+font-family: 'roboto',sans-serif;
+background-color: white;
+}
+
+p {
+font-size: 20px;
+font-color: black;
+text-align: center;
+padding-top: 10px;
+padding-bottom: 10px;
+font-family: 'roboto',sans-serif;
+}
+
+.twinkle-button {
+background-color: blue;
+color: white;
+font-size: 15px;
+font-family: 'roboto',sans-serif;
+border: 3px;
+border-color: white;
+border-radius: 3px;
+padding-top: 5px;
+padding-bottom: 5px;
+text-align: center;
+justify-content: center;
+}
+
+.twinkle-button:hover {
+background-color: white;
+color: blue;
+border:4px;
+border-color: blue;
+}
