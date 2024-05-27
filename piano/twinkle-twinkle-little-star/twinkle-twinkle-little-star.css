@@ -66,6 +66,8 @@ font-family: 'roboto',sans-serif;
 }
 
 .twinkle-button {
+width: 100px;
+height: 100px;
 cursor:pointer;
 background-color: blue;
 color: white;
@@ -73,7 +75,7 @@ font-size: 15px;
 font-family: 'roboto',sans-serif;
 border: 3px;
 border-color: white;
-border-radius: 3px;
+border-radius: 5px;
 padding-top: 5px;
 padding-bottom: 5px;
 text-align: center;
